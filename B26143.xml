@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moore Mayor. At a common council holden in the chamber of the Guild-Hall of the City of London, on Wednesday the 16th day of November, 1681. and in the three and thirtieth year of the reign of our Sovereign Lord Charles the Second, by the grace of God of England, &amp;c. Before the Right Honourable Sir John Moore Knight, Lord Mayor of the City of London, Sir John Frederick, Sir John Lawrence, Sir James Edwards, Sir Patience Ward, Sir Henry Tulse, Sir WIlliam Pritchard, Sir James Smith, Sir Robert Geffery, Sir John Shorter, Sir John Peake, Sir Thomas Beckford, Sir Jonathan Raymond, Knights, aldermen; and Thomas Pilkington Esquire, alderman, and one of the sheriffs of the same City, and also the commons of the said City, being then and there in common council assembled. Upon reading of proposals this day presented by the Committee of this Court for Insuring of Houses in Cases of Fire, the tenor whereof follows,</title>
+            <author>Corporation of London. Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26143</idno><idno type="EEBO-CITATION">99884126</idno>
+  <idno type="VID">185393</idno>
+  <idno type="EEBO-PROQUEST">2264208653</idno>
+  
+            <idno type="STC">Wing L2857E</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[70]</idno>
+            <idno type="STC">ESTC R213583</idno>
+            <idno type="PROQUEST">ocm99884126</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884126e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185393)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moore Mayor. At a common council holden in the chamber of the Guild-Hall of the City of London, on Wednesday the 16th day of November, 1681. and in the three and thirtieth year of the reign of our Sovereign Lord Charles the Second, by the grace of God of England, &amp;c. Before the Right Honourable Sir John Moore Knight, Lord Mayor of the City of London, Sir John Frederick, Sir John Lawrence, Sir James Edwards, Sir Patience Ward, Sir Henry Tulse, Sir WIlliam Pritchard, Sir James Smith, Sir Robert Geffery, Sir John Shorter, Sir John Peake, Sir Thomas Beckford, Sir Jonathan Raymond, Knights, aldermen; and Thomas Pilkington Esquire, alderman, and one of the sheriffs of the same City, and also the commons of the said City, being then and there in common council assembled. Upon reading of proposals this day presented by the Committee of this Court for Insuring of Houses in Cases of Fire, the tenor whereof follows,</title>
+                  <author>Corporation of London. Court of Common Council.</author>
+               </titleStmt>
+               <extent>1 sheet (1 p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Insurance, Fire --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185393:1"/>
+            <pb facs="tcp:185393:1"/>
+            <head>Moore Mayor.
+<figure>
+                  <figDesc>arms of London</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>
+                  <hi>At a Common Council holden in the Chamber of the</hi> Guild-Hall <hi>of the City of</hi> London, <date>
+                     <hi>on Wednesday the 16th Day of</hi> Novemb. 1681. <hi>and in the Three and thirtieth Year of the Reign of our Sovereign Lord</hi> Charles <hi>the Second, by the Grace of God of</hi> England, &amp;c.</date>
+                  <hi>Before the Right Honourable Sir</hi> John Moore <hi>Knight, Lord Mayor of the City of</hi> London, <hi>Sir</hi> John Frederick, <hi>Sir</hi> John Lawrence, <hi>Sir</hi> James Edwards, <hi>Sir</hi> Patience Ward, <hi>Sir</hi> Henry Tulse, <hi>Sir</hi> William Pritchard, <hi>Sir</hi> James Smith, <hi>Sir</hi> Robert Geffrey, <hi>Sir</hi> John Shorter, <hi>Sir</hi> John Peake, <hi>Sir</hi> Thomas Beckford, <hi>Sir</hi> Jonathan Raymond, <hi>Knights, Aldermen; and</hi> Thomas Pilkington <hi>Esq; Alderman, and one of the Sheriffs of the same City, and also the Commons of the said City, being then and there in Common Council assembled.</hi>
+               </dateline>
+            </opener>
+            <p>
+               <hi>Ʋpon Reading of</hi> Proposals <hi>this day presented by the Committee of this Court for Insuring of Houses in Cases of Fire, the Tenor whereof follows,</hi>
+            </p>
+            <p n="1">I. THat all such Persons and Corporations as shall think fit to Insure their Houses and Buildings, scituate within the City of <hi>London</hi> and Liberties thereof, in Ca<g ref="char:EOLhyphen"/>ses of Fire, shall be received and provided for by this City, according to the Terms and Conditions here under mentioned.</p>
+            <p n="2">II. That Books shall be prepared by the First day of <hi>December,</hi> 1681. and lodged in the Chamber of <hi>London,</hi> for receiving and entring the Subscriptions of all such Per<g ref="char:EOLhyphen"/>sons as shall come into this Insurance.</p>
+            <p n="3">III. That Lands and Ground-Rents, belonging to the City of <hi>London,</hi> to the value of One hundred thousand Pounds at least, shall be forthwith setled as a Fund, to Insure such Houses as shall be Subscribed for and brought into the said Insurance.</p>
+            <p n="4">IV. That hereafter, as Subscriptions shall be made, a farther Additional Fund by the <hi>Praemium</hi> which shall be received, shall be made and setled by the said City, for Se<g ref="char:EOLhyphen"/>curity of all such Houses as shall be so Subscribed for.</p>
+            <p n="5">V. That these Funds shall be setled upon Trustees in such manner, as the Insured in Cases of Damage may receive the Value of their Insurances with the most speed, and least trouble unto them.</p>
+            <p n="6">VI. That the <hi>Praemium</hi> for Insurance of Brick-houses and Buildings, for the Term of One and Thirty Years, shall not exceed Forty eight Shillings <hi>per Cent.</hi> according to the Value that shall be Insured on such Houses; that is to say, For the Insurance of a House valued at Three hundred Pounds, seven Pounds and four Shillings for the said Term of One and thirty Years, and that all other Terms of Years shall be Insured proportionable to that Rate; for which purpose a Table shall be Calculated.</p>
+            <p n="7">VII. That the <hi>Praemium</hi> for Insuring of Brick-houses and Buildings for ever, shall be four Pounds <hi>per Cent.</hi> according to the Value that shall be Insured on such Houses and Buildings, <hi>viz.</hi> for Insuring a House of Three hundred Pounds value, Twelve Pounds.</p>
+            <p n="8">VIII. That the <hi>Praemium</hi> for Insuring of Timber-houses and Buildings for Ever, shall be Eight Pounds <hi>per Cent.</hi> according to the Value that shall be Insured upon such Hou<g ref="char:EOLhyphen"/>ses and Buildings; <hi>viz.</hi> Sixteen Pounds for Insuring a Timber-house to the Value of Two hundred Pounds.</p>
+            <p n="9">IX. That all Terms of Years in Timber-houses and Buildings, shall be Insured pro<g ref="char:EOLhyphen"/>portionably to the said Insurance of Eight Pounds <hi>per Cent.</hi> for ever.</p>
+            <p n="10">X. That the said Committee, in order to the said Security, do forthwith, by Ad<g ref="char:EOLhyphen"/>vice of Council, proceed to prepare Settlements of the said Lands and Ground-Rents, and to draw up Articles and Agreements at large in pursuance of these Heads, to be proposed to such as shall Insure upon the same.</p>
+            <p>
+               <hi>All which Proposals being unanimously agreed to and approved of by this Court, are Ordered forthwith to be Printed and Published, and speedily and effectually put in Execution.</hi>
+            </p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+            <pb facs="tcp:185393:2"/>
+            <pb facs="tcp:185393:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
